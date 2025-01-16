@@ -3,9 +3,9 @@
 #include <ESP8266WiFi.h>
 
 // ThingSpeak configuration
-String apiKey = "Q4M7MV6LSAGFXDN6"; // Updated ThingSpeak Write API key
-const char *ssid = "SHUKLA G-4G";    // Updated Wi-Fi SSID
-const char *pass = "shukla1234";     // Updated Wi-Fi password
+String apiKey = "API key"; // Updated ThingSpeak Write API key
+const char *ssid = "wifi username";    // Updated Wi-Fi SSID
+const char *pass = "wifi password";     // Updated Wi-Fi password
 const char* server = "api.thingspeak.com";
 
 // Sensor configuration
